@@ -25,7 +25,6 @@ public class Worker : BackgroundService
         _channel.QueueDeclare("inventory_check", durable: true, exclusive: false, autoDelete: false);
         _channel.QueueDeclare("inventory_response", durable: true, exclusive: false, autoDelete: false);
 
-        Console.WriteLine("Inventory Worker started");
         return base.StartAsync(cancellationToken);
     }
 

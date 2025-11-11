@@ -96,3 +96,4 @@ C:\Users\josea\Desktop\UCN\8vo Semestre\Arquitectura\Proyectos-Talleres\Taller2\
 C:\Users\josea\Desktop\UCN\8vo Semestre\Arquitectura\Proyectos-Talleres\Taller2\inventory-service\obj\Debug\net8.0\inventory-service.pdb
 C:\Users\josea\Desktop\UCN\8vo Semestre\Arquitectura\Proyectos-Talleres\Taller2\inventory-service\obj\Debug\net8.0\inventory-service.genruntimeconfig.cache
 C:\Users\josea\Desktop\UCN\8vo Semestre\Arquitectura\Proyectos-Talleres\Taller2\inventory-service\obj\Debug\net8.0\ref\inventory-service.dll
+C:\Users\josea\Desktop\UCN\8vo Semestre\Arquitectura\Proyectos-Talleres\Taller2\inventory-service\obj\Debug\net8.0\inventory-service.sourcelink.json
